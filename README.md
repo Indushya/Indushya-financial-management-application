@@ -11,14 +11,15 @@ Video Session 1 – Conditionals: Boolean Values and Operators
 
 Video Session 3 – Conditional (if, if-else, if-elif-else)
 
-Video Session 5 – Iteration Statements (while, for, break, continue, pass)
+Video Session 5
 
-Video Session 7 – Iteration Examples
+Video Session 7 
 
-Video Session 9 – Nested Loops and Control Statements
+Video Session 9
 
-Video Session 12 – Iteration Practice Problems
+Video Session 12
 
 Challenging task - in discussion with the team
 
 Presentation - in discussion with the team 
+
