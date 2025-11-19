@@ -19,7 +19,5 @@ Video Session 9
 
 Video Session 12
 
-Challenging task - in discussion with the team
 
-Presentation - in discussion with the team 
 
